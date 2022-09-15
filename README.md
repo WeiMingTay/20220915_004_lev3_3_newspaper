@@ -1,6 +1,6 @@
 20220915 lev3_3 newspaper
 
-Link zur Seite: https://weimingtay.github.io/20220915_004_lev4_3_newspaper/
+Link zur Seite: https://weimingtay.github.io/20220915_004_lev3_3_newspaper/
 
 # Aufgabenstellung
 
